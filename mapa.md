@@ -71,4 +71,4 @@ graph TD
     H --> H5["Auditoría"]
     H5 --> H5a["Historial de usuarios / Logs"]
     H5 --> H5b["Logs de auditoría"]
-´´´
+```
